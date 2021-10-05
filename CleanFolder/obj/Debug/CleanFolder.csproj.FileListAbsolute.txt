@@ -20,3 +20,14 @@ E:\CleanFolder\CleanFolder\bin\Debug\CleanFolder.exe
 E:\CleanFolder\CleanFolder\bin\Debug\CleanFolder.pdb
 E:\CleanFolder\CleanFolder\obj\Debug\CleanFolder.Properties.Resources.resources
 E:\CleanFolder\CleanFolder\obj\Debug\CleanFolder.csproj.GenerateResource.cache
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\bin\Debug\CleanFolder.exe.config
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\bin\Debug\CleanFolder.exe
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\bin\Debug\CleanFolder.pdb
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.csproj.AssemblyReference.cache
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.csproj.ResolveComReference.cache
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.Properties.Resources.resources
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.csproj.GenerateResource.cache
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.csproj.CoreCompileInputs.cache
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.exe
+C:\Users\ikazm\Desktop\For files\CleanFolder\CleanFolder\CleanFolder\obj\Debug\CleanFolder.pdb
